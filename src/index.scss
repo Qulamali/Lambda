@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add this SCSS to your project */
+
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    list-style-type: none;
+    box-sizing: border-box;
+}
+body{
+    background-color: #FAFAFA;
+}
+img{
+    max-width: 100%;
+}
